@@ -27,7 +27,7 @@ int main() {
               ? (a - b) % 2
                   ? '[' : ']'
           : 0);
-        b = a;
         a = getinput();
+        b = getinput();
     }
 }
